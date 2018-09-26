@@ -15,7 +15,7 @@ Parts List for the 200uL Magnetic Tube Rack
 
 Parts to be printed:
 200_top_plate.stl
-200_middle_plate.stl
+200_middle_plate.stl			(Print with supports)
 200_bottom_plate.stl
 
 
@@ -46,6 +46,6 @@ ASSEMBLY INSTRUCTIONS
 			The plate is designed so the magnets will hold themselves in the hole securely. However, for long term
 			use and storage, it is reccomended to glue the magnets in place.
 	3) Place a small amount of glue along the long-axis edges of the middle plate
-	4) Making sure the magnets are CLOSER TO THE TOP PLATE, place the middle plate in the joints of the top and bottom plates
+	4) Making sure the magnets are CLOSER TO THE BOTTOM PLATE, place the middle plate in the joints of the top and bottom plates
 	5) Before the glue sets, ensure all edges are aligned and the plates fit snugly together.
 	6) Follow your glue's instructions for drying time.
